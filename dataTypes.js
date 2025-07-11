@@ -27,6 +27,7 @@
 // console.log("My first name: "+ firstName);
 // console.log(temperature);
 
+
 //boolean
 // bool isRaining = True; 
 // isRaining = "yes";
